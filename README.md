@@ -9,7 +9,7 @@ A simple coffee shop menu designed in HTML and CSS. Includes multiple drink cate
 # **Demo**
 ![Menu Screenshot](Screenshot.png)
 
-#** How to Run **
+# ** How to Run **
 Just open `index.html` in your browser.
 
 ---
