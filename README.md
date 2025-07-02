@@ -13,10 +13,10 @@ Features
 - Matcha and Milky Series
 - Responsive and mobile-friendly
 
-#Demo
+Demo
 ![Menu Screenshot](Screenshot.png)
 
-## How to Run
+How to Run
 Just open `index.html` in your browser.
 
 ---
