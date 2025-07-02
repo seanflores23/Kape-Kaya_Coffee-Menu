@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/macos
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos
+# Created by Sean Carlo G. Flores
+# Edit at Visual Studio Code
 
 ### macOS ###
 # General
