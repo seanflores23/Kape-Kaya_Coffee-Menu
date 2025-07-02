@@ -1,10 +1,3 @@
-git init
-git add .
-git commit -m "Initial commit - Kape Kaya Menu"
-git remote add origin https://github.com/your-username/kape-kaya-menu.git
-git push -u origin main
-![image](https://github.com/user-attachments/assets/e6d39a46-cda1-4ae7-85a6-d335cf53a5db)
-
 Kape Kaya Menu
 A simple coffee shop menu designed in HTML and CSS. Includes multiple drink categories, responsive layout, and clean visual styling.
 
